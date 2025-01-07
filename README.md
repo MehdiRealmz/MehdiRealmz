@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 🤔 I’m looking for help with ... Finding internship opportunities and earning IT certifications.
 📫 How to reach me: ...
 Email: mlefta1@umbc.edu
-LinkedIn: Mehdi Lefta
+LinkedIn: [Mehdi Lefta] (https://www.linkedin.com/in/mehdi-lefta-b47b23278/)
 -->
